@@ -1,0 +1,34 @@
+{
+    "name": "VRControls",
+    "maps": [
+        {
+            "name": "Controls",
+            "id": "7e35bfd7-8680-4c5f-be09-21ec369c1e49",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a633c936-3537-4ac4-ba28-d3f78ed39fe7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "da39a2ae-b932-4b31-b331-b34186b68145",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
